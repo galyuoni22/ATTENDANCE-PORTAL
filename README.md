@@ -8,4 +8,6 @@ STEPS TO USE THIS APPLICATION
 3. Open the course and then mark your attendance
 
 
-For any issues contact support at www.acity.support.edu.gh
+For any issues contact support at support.acity.edu.gh
+
+#attendance
